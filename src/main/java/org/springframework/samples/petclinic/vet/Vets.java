@@ -36,7 +36,7 @@ public class Vets {
 	public List<Vet> getVetList() {
 		if (vets == null) {
 			vets = new ArrayList<>();
-		}
+		}else{}
 		return vets;
 	}
 
